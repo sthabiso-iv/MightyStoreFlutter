@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559982194498",
+    "project_id": "vconomyapp",
+    "storage_bucket": "vconomyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559982194498:android:b2e8bfc6f1b5aca54262db",
+        "android_client_info": {
+          "package_name": "za.co.vconomy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559982194498-59uitsugv1ln0rskoqim6b3p4j2nj6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQPD-pQFpBY_YMhrayoAd9uVH4SQzFGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559982194498-59uitsugv1ln0rskoqim6b3p4j2nj6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
